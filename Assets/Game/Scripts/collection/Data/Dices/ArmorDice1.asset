@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aadc130da885fd343adfbc2224afa06a, type: 3}
+  m_Name: ArmorDice1
+  m_EditorClassIdentifier: 
+  sides: 6
+  diceEffects:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 33f16b4b464ad2246a8699cccb114929, type: 2}
+  - {fileID: 11400000, guid: f6276e5a8ed62b94db9841f41aab57d6, type: 2}
+  - {fileID: 11400000, guid: e60bd36a05938f046a7cb2254fad7f06, type: 2}
+  - {fileID: 11400000, guid: e60bd36a05938f046a7cb2254fad7f06, type: 2}
+  - {fileID: 11400000, guid: e60bd36a05938f046a7cb2254fad7f06, type: 2}
+  dicePrefab: {fileID: 8972672385296970284, guid: 9fefd76888edf1e4ba4ef244c58504a4, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d5f9c17d9da9544928ef29cfb2d401, type: 3}
+  m_Name: AttackIII
+  m_EditorClassIdentifier: 
+  spell: {fileID: 0}
+  diceEffectPrefab: {fileID: 8905364193190519850, guid: 259b1036786b3c844a77bbf7e44bf542, type: 3}
+  mesh: {fileID: 4279807875037591169, guid: fa2f64fd090932e48ba8a4a9c66889b0, type: 3}
+  material: {fileID: 2100000, guid: 0e461695245f75343b964b72d5c5b2b3, type: 2}
+  damageType: 0
+  damage: 2
+  projectile: {fileID: 5448997045074843961, guid: 6dc0d60bf5514774ba1c41a1d3d3eb3e, type: 3}

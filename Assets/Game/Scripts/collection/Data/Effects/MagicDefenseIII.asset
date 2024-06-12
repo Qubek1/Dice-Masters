@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3194fba11ed318a43bcd1cfff250c6b6, type: 3}
+  m_Name: MagicDefenseIII
+  m_EditorClassIdentifier: 
+  spell: {fileID: 0}
+  diceEffectPrefab: {fileID: 8905364193190519850, guid: c9a6e5ab2cbc6a84ba35f2e38d7f8925, type: 3}
+  mesh: {fileID: -8289235004401243339, guid: 6bfe0a2b12e98954d9bc0c249e677472, type: 3}
+  material: {fileID: 2100000, guid: d038f2118038b3041b9a2d8d798dbb45, type: 2}
+  amount: 3
+  defenseType: 1
